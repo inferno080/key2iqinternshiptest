@@ -1,0 +1,28 @@
+.one {
+  background: #f4f4f4;
+  border: 1px solid #ddd;
+  border-left: 3px solid #f36d33;
+  color: #666;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  padding: 1em 1.5em;
+  display: block;
+  width: 70%;
+  margin-left: 15%;
+  word-wrap: normal;
+  text-align: left;
+}
+
+.sus {
+        margin: 0;
+        font-size: 85%;
+        background: #f4f4f4;
+        border: 1px solid #ddd;
+        font-family: monospace;
+        color: #666;
+}
+
